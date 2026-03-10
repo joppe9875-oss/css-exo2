@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+#paragraphe_gras {
+    font-weight: bold;
+    background-color: red;
+    font-size: 26px;
+}
+
+#h4_1 {
+    text-decoration: underline;
+}
+
+#h4_2{
+    font-weight: bold;
+}
+
+ol{
+    font-style: italic;
+}
+
+ul{
+    font-style: italic;
+}
